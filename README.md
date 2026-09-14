@@ -52,6 +52,8 @@ Current release: **v1.0.0** — **783** climbs / **1291** sides in **6** countri
 
 Full methodology: <https://cycletrip.pro/methodology>
 
+Every release is archived on Zenodo with a DOI.
+
 ## Attribution
 
 Please credit **CycleTrip** and link to <https://cycletrip.pro> wherever the data is
