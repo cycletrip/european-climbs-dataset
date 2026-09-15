@@ -16,7 +16,9 @@ use, share and adapt, including commercially, with attribution (see below).
 | `data/sides.geojson` | simplified LineString geometry per side |
 | `data/manifest.json` | generation date, counts, version |
 
-Current release: **v1.0.0** — **783** climbs / **1291** sides in **6** countries.
+Current release: **v1.0.1** — **783** climbs / **1291** sides in **6** countries. Every release is archived on Zenodo with a DOI.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22759250.svg)](https://doi.org/10.5281/zenodo.22759250)
 
 ## Columns (`climbs.csv`)
 
